@@ -1,5 +1,5 @@
 # B Wells Productions
-This is a homepage for a local music production studio. Eventually I'll convert it to a WordPress theme.
+This is a homepage for the website of a local music production studio. Eventually I'll convert it to a WordPress theme.
 
 ## To view
 - Clone repository
